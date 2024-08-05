@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkctto_toolkit=self.webpackChunkctto_toolkit||[]).push([[5828],{3335:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/ctto-toolkit/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
