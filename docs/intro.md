@@ -2,6 +2,9 @@
 sidebar_position: 1
 ---
 
+
+> All the text below is stock placeholder, to be updated in time. – Jordan
+
 # Tutorial Intro
 
 Let's discover **Docusaurus in less than 5 minutes**.
